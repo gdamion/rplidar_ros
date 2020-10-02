@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/al/Code/catkin_ws/devel/include/**",
+                "/home/al/Code/catkin_ws_sber/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/al/Code/catkin_ws_sber/src/courier/bumper_recovery/include/**",
+                "/home/al/Code/catkin_ws_sber/src/courier/courier_costmap_plugins/costmap_prohibition_layer/include/**",
+                "/home/al/Code/catkin_ws_sber/src/courier/courier_slam/include/**",
+                "/home/al/Code/catkin_ws_sber/src/courier/leg_tracker/include/**",
+                "/home/al/Code/catkin_ws_sber/src/courier/courier_costmap_plugins/range_sensor_layer/include/**",
+                "/home/al/Code/catkin_ws_sber/src/rms_courier/include/**",
+                "/home/al/Code/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/al/Code/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/al/Code/catkin_ws/src/turtlebot3_home_service_challenge/turtlebot3_home_service_challenge_manager/include/**",
+                "/home/al/Code/catkin_ws/src/turtlebot3_home_service_challenge/turtlebot3_home_service_challenge_tools/include/**",
+                "/home/al/Code/catkin_ws/src/turtlebot3_applications/turtlebot3_panorama/include/**",
+                "/home/al/Code/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
